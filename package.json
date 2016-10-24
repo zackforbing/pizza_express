@@ -1,0 +1,27 @@
+{
+  "name": "pizza_express",
+  "version": "1.0.0",
+  "description": "an express of pizzas",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "pizza",
+    "express"
+  ],
+  "author": "Zack Forbing",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "request": "^2.75.0"
+  }
+}
